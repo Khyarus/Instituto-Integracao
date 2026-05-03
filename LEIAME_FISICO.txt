@@ -1,0 +1,3 @@
+ATENÇÃO: Este repositório contém o backlog e planejamento digital.
+As evidências físicas (Fotos do Kanban no quadro e Cronograma Gantt em papel) 
+devem ser anexadas manualmente à pasta 'docs/fisico' antes do envio final.
