@@ -1,0 +1,5 @@
+com\taskhub\controller\TaskController.class
+com\taskhub\service\TaskService.class
+com\taskhub\repository\TaskRepository.class
+com\taskhub\TaskhubApplication.class
+com\taskhub\model\Task.class
