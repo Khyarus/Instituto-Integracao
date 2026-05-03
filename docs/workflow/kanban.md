@@ -12,3 +12,6 @@
 - [x] Repositório JPA
 - [x] Controller CRUD
 - [x] Configuração H2
+- [x] Páginas principais do frontend implementadas
+- [x] Roteamento com @tanstack/react-router
+- [x] Formulários de login, cadastro e contato com validação
